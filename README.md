@@ -1,6 +1,6 @@
 ### Olá, eu sou o Nicolas! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, games e filmes, atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou cursando .
+Sou um desenvolvedor apaixonado por tecnologia, games e filmes, atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou no 4 semestre do curso Ciência da Computação na URI Campus de Santo Ângelo .
 
 - 🔭 Atualmente trabalhando no projeto **[Pokedex](https://github.com/NicolasMaronnJusten/pokedex)**.
 - 🌱 Estudando: **JavaScript, TypeScript e Next.js**.
