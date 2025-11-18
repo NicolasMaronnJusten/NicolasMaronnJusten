@@ -10,7 +10,7 @@
 ## 🌐 Sobre Mim
 
 <p align="center">
-  <img src="https://i.pinimg.com/73x/ed/68/ca/ed68caafa8c00927b15b79019b11cdda.jpg" alt="Ash e Pikachu" width="45%" align="right" style="padding-left:15px;">
+  <img src="[https://i.pinimg.com/73x/ed/68/ca/ed68caafa8c00927b15b79019b11cdda.jpg](https://github.com/NicolasMaronnJusten/NicolasMaronnJusten/blob/b1649c10bbba04f0ee75be86ff0670690da40d8c/imagens/lugia.jpg)" alt="Lugia" width="45%" align="right" style="padding-left:15px;">
 </p>
 
 Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou no **4º semestre** do curso **Ciência da Computação** na URI Campus de Santo Ângelo.
