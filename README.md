@@ -1,1 +1,23 @@
 
+# 👋 Olá, eu sou o Nicolas!
+
+<div align="center">
+  <img src="https://i.pinimg.com/73x/f9/35/55/f935551aef8e45a8a893b9910f9102ac.jpg" alt="Banner de Boas Vindas Pokémon" width="100%">
+</div>
+
+---
+
+## 🌐 Sobre Mim
+
+<p align="center">
+  <img src="https://i.pinimg.com/73x/ed/68/ca/ed68caafa8c00927b15b79019b11cdda.jpg" alt="Ash e Pikachu" width="45%" align="right" style="padding-left:15px;">
+</p>
+
+Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou no **4º semestre** do curso **Ciência da Computação** na URI Campus de Santo Ângelo.
+
+| Status Atual | Área de Foco |
+| :--- | :--- |
+| **👩‍🎓 Academia:** 4º Semestre - Ciência da Computação (URI) | **Frontend:** JavaScript, TypeScript, Next.js (em estudo) |
+| **💼 Profissional:** Administrativo (DASUL) | **Projetos Atuais:** [Pokedex](https://github.com/NicolasMaronnJusten/pokedex) |
+
+---
