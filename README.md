@@ -28,8 +28,9 @@ Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente e
 ## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasMaronnJusten&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMaronnJusten&layout=compact&theme=tokyonight&locale=pt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasMaronnJusten&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMaronnJusten&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
