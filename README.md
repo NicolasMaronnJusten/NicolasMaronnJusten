@@ -2,7 +2,7 @@
 # 👋 Olá, eu sou o Nicolas!
 
 <div align="center">
-  <img src="https://i.pinimg.com/73x/f9/35/55/f935551aef8e45a8a893b9910f9102ac.jpg" alt="Banner de Boas Vindas Pokémon" width="100%">
+  
 </div>
 
 ---
