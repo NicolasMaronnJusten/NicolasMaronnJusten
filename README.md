@@ -4,7 +4,6 @@ Sou um desenvolvedor apaixonado por tecnologia, games e filmes, atualmente estou
 
 - 🔭 Atualmente trabalhando no projeto **[Pokedex](https://github.com/NicolasMaronnJusten/pokedex)**.
 - 🌱 Estudando: **JavaScript, TypeScript e Next.js**.
-- ⚡ Curiosidade: Adoro transformar ideias em interfaces interativas.
 
 ---
 
