@@ -7,6 +7,8 @@
 Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou no 4º semestre do curso Ciência da Computação na URI Campus de Santo Ângelo.
 
 <br>
+<br>
+
 
 | Status Atual | Área de Foco |
 | :--- | :--- |
