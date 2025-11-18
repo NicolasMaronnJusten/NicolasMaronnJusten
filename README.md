@@ -8,8 +8,6 @@ Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente e
 
 <br>
 
-### Status & Foco
-
 | Status Atual | Área de Foco |
 | :--- | :--- |
 | **👩‍🎓 Academia:** 4º Semestre - Ciência da Computação (URI) | **Frontend:** JavaScript, TypeScript, Next.js (em estudo) |
