@@ -2,18 +2,25 @@
 
 ## 🌐 Sobre Mim
 
-Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou no 4º semestre do curso Ciência da Computação na URI Campus de Santo Ângelo.
-
-- 🔭 Atualmente trabalhando no projeto **[Pokedex](https://github.com/NicolasMaronnJusten/pokedex)**.
-- 🌱 Estudando: **JavaScript, TypeScript e Next.js**.
-
-| Status Atual | Área de Foco |
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  
+  <div style="flex: 1 1 55%; min-width: 300px;">
+    Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou no 4º semestre do curso Ciência da Computação na URI Campus de Santo Ângelo.
+    
+    <br>
+    
+    | Status Atual | Área de Foco |
 | :--- | :--- |
 | **👩‍🎓 Academia:** 4º Semestre - Ciência da Computação (URI) | **Frontend:** JavaScript, TypeScript, Next.js (em estudo) |
 | **💼 Profissional:** Administrativo (DASUL) | **Projetos Atuais:** [Pokedex](https://github.com/NicolasMaronnJusten/pokedex) |
+  </div>
+
+  <div style="flex: 0 0 35%; max-width: 250px; margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/NicolasMaronnJusten/NicolasMaronnJusten/main/imagens/lugia.jpg" alt="Lugia" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+</div>
 
 ---
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
