@@ -1,6 +1,6 @@
 ### Olá, eu sou o Nicolas! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em **Front-end** e aprendendo o ecossistema **React/Next.js**.
+Sou um desenvolvedor apaixonado por tecnologia, games e filmes, atualmente estou trabalhando na empresa *DASUL TRANSPORTES DE CARGA LTDA* onde atuo em função administrativa, e estou cursando .
 
 - 🔭 Atualmente trabalhando no projeto **[Pokedex](https://github.com/NicolasMaronnJusten/pokedex)**.
 - 🌱 Estudando: **JavaScript, TypeScript e Next.js**.
@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em **Front-end** e aprend
 ### 📫 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-maronn-justen-455b61353/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:nicolasjusten5@gmail.com">
