@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente e
 
 | Status Atual | Área de Foco |
 | :--- | :--- |
-| **👩‍🎓 Academia:** 4º Semestre - Ciência da Computação (URI) | **Frontend:** JavaScript, TypeScript, Next.js (em estudo) |
+| **👩‍🎓 Academia:** 5º Semestre - Ciência da Computação (URI) | **Frontend:** JavaScript, TypeScript, Next.js (em estudo) |
 | **💼 Profissional:** Administrativo (DASUL) | **Projetos Atuais:** [Pokedex](https://github.com/NicolasMaronnJusten/pokedex) |
 
 ---
