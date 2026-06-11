@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por **tecnologia, games e filmes**. Atualmente e
 | Status Atual | Área de Foco |
 | :--- | :--- |
 | **👩‍🎓 Academia:** 5º Semestre - Ciência da Computação (URI) | **Linguagens:** JS, Java, Nodejs (Em Estudo) |
-| **💼 Profissional:** Administrativo (DASUL) | **Projetos Atuais:** [Pokedex](https://github.com/NicolasMaronnJusten/pokedex) |
+| **💼 Profissional:** Administrativo (DASUL) | **Projetos Atuais:** [Pokedex](https://github.com/NicolasMaronnJusten/pokedex) , [Album da Copa em Java](https://github.com/NicolasMaronnJusten/Trabalho_Album_Copa) |
 
 ---
 
