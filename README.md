@@ -41,9 +41,28 @@
 
 Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
 
-Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
+## Experiência profissional
 
-At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
+**Funcionário administrativo · Dasul Transporte de Cargas Ltda.**  
+Desde maio de 2023
+
+- Cadastro e atualização de dados no sistema da empresa.
+- Elaboração de relatórios e planilhas para o controle administrativo.
+- Atendimento a clientes por canais digitais, telefone e presencialmente, com esclarecimento de dúvidas.
+- Organização e digitalização de arquivos e registros para consulta da equipe.
+- Participação em reuniões e apoio na elaboração de atas e no registro de informações.
+- Gestão de equipe, com atuação em recrutamento e treinamento.
+- Correção e encaminhamento dos registros de jornada dos motoristas.
+
+## Formação acadêmica
+
+**Ciência da Computação · URI, Campus de Santo Ângelo**  
+6º semestre · Desde fevereiro de 2024
+
+- Diagnóstico de falhas, identificação de erros e resolução de problemas técnicos.
+- Conhecimentos em Windows e sistemas de gestão empresarial (ERP).
+- Noções de redes de computadores, incluindo TCP/IP e DNS.
+
 
 </div>
 
@@ -77,14 +96,6 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
 
 <img src="./assets/icons/knife.png" width=106px align="right">
 
-> [!Caution]
->
-> Code is never finished, it only gets **better**.
->
-> What you see here is built with **practice**, **curiosity**, and **persistence**.
-
-</br>
-
 <!-- My contributions title -->
 <div align="center">
 <img src="./assets/images/Contributions.svg" width="50%">
@@ -102,16 +113,12 @@ At the moment, I am working as a **freelancer**, developing **complete systems**
       <img src="./assets/images/Stack.svg">
       </br>
       </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-      <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-      <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" /><br>
+      <img src="https://skillicons.dev/icons?i=python" /><br>
+      
+      
     </td>
-    <!---->
-    <td valign="top" width="55%">
-      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
-
-    </td>
+    <!----
   </tr>
 </table>
 
