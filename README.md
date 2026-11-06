@@ -35,7 +35,7 @@
 <img src="assets/84dabee7783242f6fd6e33a052d7f338.gif" width=390 align="left">
 <div align="center">
 
-# SOBRE MIM
+
 </div>
 
 <div align="justify">
