@@ -1,16 +1,51 @@
-![Capa em estilo de editor de código, com referências a Python, web e SQL](assets/capa.svg)
+<!--
+    Dear user using my README as a base
+    to create your own, I’m happy to authorize its use 
+    and I’m glad you liked it! I just kindly ask for one thing:
 
-# Nicolas Maronn Justen
+    Please, leave a star on my README it would truly make my day :)
+    GitHub: https://github.com/Glauedson
+-->
+
+<<<<<<< HEAD
+Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
+=======
+<!-- Banner  -->
+<a href="https://github.com/NicolasMaronnJusten">
+  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:200%; height:auto"/>
+</a>
+>>>>>>> 2095f7513d72fa6e7e7856ee2fd63a2b8f20997c
+
+<div align="center">
+
+  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+    <img width="120px" 
+        alt="Stars" 
+        title="Stars Profile" 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+  </a>
+  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+    <img width="111px" 
+        alt="forks" 
+        title="Forks Repository" 
+        src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  </a>
+</div>
+
+</br>
+
+<!-- Who am i? -->
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<div align="center">
+
+**Who Am I?**
+</div>
+
+<div align="justify">
 
 Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
 
-## Programação
-
-- **Python** · Lógica de programação e resolução de problemas.
-- **HTML, CSS e JavaScript** · Estrutura, estilo e interatividade de páginas web.
-- **SQL** · Fundamentos de bancos de dados e consultas.
-
-## Experiência profissional
+ <strong> ===Experiência profissional=== </strong>
 
 **Funcionário administrativo · Dasul Transporte de Cargas Ltda.**  
 Desde maio de 2023
@@ -32,20 +67,61 @@ Desde maio de 2023
 - Conhecimentos em Windows e sistemas de gestão empresarial (ERP).
 - Noções de redes de computadores, incluindo TCP/IP e DNS.
 
-## Contato e idiomas
 
-**E-mail profissional** · [nicolasjustenprofissional@gmail.com](mailto:nicolasjustenprofissional@gmail.com)  
-**Idiomas** · Português nativo e inglês básico (A2)
+</div>
 
-## Galeria
+</br>
+</br>
 
-<details>
-<summary>Ver imagens decorativas</summary>
+<!-- badges -->
+<div align="center">
+  
+  </br>
 
-<p>
-  <img src="assets/python-e-dados.svg" width="48%" alt="Cartão decorativo de Python e SQL com uma consulta em um terminal">
-  <img src="assets/desenvolvimento-web.svg" width="48%" alt="Cartão decorativo de HTML, CSS e JavaScript com uma janela de navegador">
-</p>
+ 
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in//" target="_blank">
+    <img width="100px" 
+          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
+          alt="Linkedin"
+          title="My Linkedin"/>
+  </a>
+  <!-- GMail  -->
+  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
+    <img width="97px" 
+          src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
+          alt="E-mail"
+          title="My E-mail"/>
+  </a>
 
-<!-- Para personalizar a galeria, adicione suas imagens a assets/ e inclua novas tags img com texto alternativo. -->
-</details>
+</div>
+</br>
+
+
+<img src="./assets/icons/knife.png" width=106px align="right">
+
+<!-- My contributions title -->
+<div align="center">
+<img src="./assets/images/Contributions.svg" width="50%">
+</br>
+</br>
+</div>
+<table align="center">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+      <img src="./assets/images/Stack.svg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" /><br>
+      <img src="https://skillicons.dev/icons?i=python" /><br>
+  </tr>
+</table>
+
+
+
+
+
+<!--
+<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+-->
