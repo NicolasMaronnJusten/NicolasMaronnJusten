@@ -1,43 +1,124 @@
-![Capa em estilo de editor de código, com referências a Python, web e SQL](assets/capa.svg)
+<!--
+    Dear user using my README as a base
+    to create your own, I’m happy to authorize its use 
+    and I’m glad you liked it! I just kindly ask for one thing:
 
-# Nicolas Maronn Justen
+    Please, leave a star on my README it would truly make my day :)
+    GitHub: https://github.com/Glauedson
+-->
 
-Estudo **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é meu especializar e poder atuar como Desenvolvedor.
+<!-- Banner  -->
+<a href="https://github.com/NicolasMaronnJusten">
+  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
+</a>
 
-## Programação
+<div align="center">
 
-- **Python** · Lógica de programação e resolução de problemas.
-- **HTML, CSS e JavaScript** · Estrutura, estilo e interatividade de páginas web.
-- **SQL** · Fundamentos de bancos de dados e consultas.
+  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+    <img width="120px" 
+        alt="Stars" 
+        title="Stars Profile" 
+        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
+  </a>
+  <a href="https://api.github-star-counter.workers.dev/user/Glauedson">
+    <img width="111px" 
+        alt="forks" 
+        title="Forks Repository" 
+        src="https://custom-icon-badges.demolab.com/github/forks/Glauedson/Glauedson?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001" /> 
+  </a>
+</div>
 
-## Experiência profissional
+</br>
 
-**Funcionário administrativo · Dasul Transporte de Cargas Ltda.**  
-Desde maio de 2023
+<!-- Who am i? -->
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<div align="center">
 
-- Cadastro e atualização de dados no sistema da empresa.
-- Elaboração de relatórios e planilhas para o controle administrativo.
-- Atendimento a clientes por canais digitais, telefone e presencialmente, com esclarecimento de dúvidas.
-- Organização e digitalização de arquivos e registros para consulta da equipe.
-- Participação em reuniões e apoio na elaboração de atas e no registro de informações.
-- Gestão de equipe, com atuação em recrutamento e treinamento.
-- Correção e encaminhamento dos registros de jornada dos motoristas.
+**Who Am I?**
+</div>
 
-## Formação acadêmica
+<div align="justify">
 
-**Ciência da Computação · URI, Campus de Santo Ângelo**  
-6º semestre · Desde fevereiro de 2024
+Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
 
-- Diagnóstico de falhas, identificação de erros e resolução de problemas técnicos.
-- Conhecimentos em Windows e sistemas de gestão empresarial (ERP).
-- Noções de redes de computadores, incluindo TCP/IP e DNS.
+Over time, I have developed **solid experience** across the **web development ecosystem**, with a strong passion for `Front-End Development`, where **logic meets creativity and visual design**. Alongside web technologies, I have expanded my skills into **mobile development**, focusing on building modern applications using `Android Studio` and `React Native`.
 
-## Contato e idiomas
+At the moment, I am working as a **freelancer**, developing **complete systems** for companies in my city, from **planning and interface design** to **implementation and delivery**. This hands-on experience has strengthened my **problem-solving skills**, **technical versatility**, and ability to understand **business needs**, while constantly pushing me to grow as a **developer and professional**.
 
-**E-mail profissional** · [nicolasjustenprofissional@gmail.com](mailto:nicolasjustenprofissional@gmail.com)  
-**Idiomas** · Português nativo e inglês básico (A2)
+</div>
+
+</br>
+</br>
+
+<!-- badges -->
+<div align="center">
+  <strong>You can Click here</strong>
+  </br>
+
+ 
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in//" target="_blank">
+    <img width="100px" 
+          src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
+          alt="Linkedin"
+          title="My Linkedin"/>
+  </a>
+  <!-- GMail  -->
+  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
+    <img width="97px" 
+          src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
+          alt="E-mail"
+          title="My E-mail"/>
+  </a>
+
+</div>
+</br>
+
+
+<img src="./assets/icons/knife.png" width=106px align="right">
+
+> [!Caution]
+>
+> Code is never finished, it only gets **better**.
+>
+> What you see here is built with **practice**, **curiosity**, and **persistence**.
+
+</br>
+
+<!-- My contributions title -->
+<div align="center">
+<img src="./assets/images/Contributions.svg" width="50%">
+</br>
+</br>
+</div>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glauedson&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
+
+<table align="center">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+      <img src="./assets/images/Stack.svg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
+      <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
+      <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,androidstudio,arduino" /><br>
+    </td>
+    <!---->
+    <td valign="top" width="55%">
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+
+    </td>
+  </tr>
+</table>
 
 
 
-<!-- Para personalizar a galeria, adicione suas imagens a assets/ e inclua novas tags img com texto alternativo. -->
-</details>
+
+
+<!--
+<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
+-->
