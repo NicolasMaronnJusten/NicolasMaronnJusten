@@ -93,13 +93,8 @@ Desde maio de 2023
 
 </div>
 </br>
-
-
-<img src="./assets/icons/knife.png" width=106px align="right">
-
-<!-- My contributions title -->
 <div align="center">
-<img src="./assets/images/Contributions.svg" width="50%">
+
 </br>
 </br>
 </div>
@@ -107,7 +102,7 @@ Desde maio de 2023
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
+      <img src="./assets/Stack.svg">
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" /><br>
