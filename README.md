@@ -37,15 +37,7 @@ Desde maio de 2023
 **E-mail profissional** · [nicolasjustenprofissional@gmail.com](mailto:nicolasjustenprofissional@gmail.com)  
 **Idiomas** · Português nativo e inglês básico (A2)
 
-## Galeria
 
-<details>
-<summary>Ver imagens decorativas</summary>
-
-<p>
-  <img src="assets/python-e-dados.svg" width="48%" alt="Cartão decorativo de Python e SQL com uma consulta em um terminal">
-  <img src="assets/desenvolvimento-web.svg" width="48%" alt="Cartão decorativo de HTML, CSS e JavaScript com uma janela de navegador">
-</p>
 
 <!-- Para personalizar a galeria, adicione suas imagens a assets/ e inclua novas tags img com texto alternativo. -->
 </details>
