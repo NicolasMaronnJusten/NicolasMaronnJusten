@@ -115,10 +115,6 @@ Desde maio de 2023
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" /><br>
       <img src="https://skillicons.dev/icons?i=python" /><br>
-      
-      
-    </td>
-    <!----
   </tr>
 </table>
 
