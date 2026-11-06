@@ -41,7 +41,7 @@
 
 Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
 
- <br>Experiência profissional</br>
+ <strong> "Experiência profissional" </strong>
 
 **Funcionário administrativo · Dasul Transporte de Cargas Ltda.**  
 Desde maio de 2023
