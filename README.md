@@ -2,7 +2,7 @@
 
 # Nicolas Maronn Justen
 
-Estudo **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Quero aplicar essa experiência no **suporte técnico a usuários de ERP** e, a longo prazo, trabalhar com **desenvolvimento de software**.
+Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
 
 ## Programação
 
