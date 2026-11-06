@@ -29,62 +29,78 @@
   </a>
 </div>
 
-</br>
+<br>
 
-<!-- Who am i? -->
+<!-- Apresentação -->
 <img src="assets/84dabee7783242f6fd6e33a052d7f338.gif" width=390 align="left">
-<div align="center">
 
+### Olá, eu sou o Nicolas! 👋
 
-</div>
+**Estudante de Ciência da Computação · Desenvolvedor em formação**
 
-<div align="justify">
+Curso **Ciência da Computação na URI, Campus de Santo Ângelo**, e trabalho na área administrativa da **Dasul Transporte de Cargas**. No dia a dia, lido com sistemas de gestão, organização de dados e atendimento a clientes.
 
-Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
+Assim como em uma jornada Pokémon, cada desafio é uma oportunidade de evoluir. Meu próximo objetivo é me especializar em **desenvolvimento de software**, conectando o aprendizado da graduação à experiência profissional.
 
- <strong> ===Experiência profissional=== </strong>
+<br clear="all">
+
+## 🎯 Experiência profissional
 
 **Funcionário administrativo · Dasul Transporte de Cargas Ltda.**  
 Desde maio de 2023
 
-- Cadastro e atualização de dados no sistema da empresa.
-- Elaboração de relatórios e planilhas para o controle administrativo.
-- Atendimento a clientes por canais digitais, telefone e presencialmente, com esclarecimento de dúvidas.
-- Organização e digitalização de arquivos e registros para consulta da equipe.
-- Participação em reuniões e apoio na elaboração de atas e no registro de informações.
-- Gestão de equipe, com atuação em recrutamento e treinamento.
-- Correção e encaminhamento dos registros de jornada dos motoristas.
+- **Dados e controles:** cadastro e atualização de informações no sistema, elaboração de relatórios e planilhas administrativas.
+- **Atendimento:** suporte a clientes por canais digitais, telefone e presencialmente, com esclarecimento de dúvidas.
+- **Documentação:** organização e digitalização de arquivos, apoio em reuniões e elaboração de atas.
+- **Equipe:** atuação em gestão, recrutamento e treinamento.
+- **Rotinas operacionais:** correção e encaminhamento dos registros de jornada dos motoristas.
 
-## Formação acadêmica
+## 🎓 Formação acadêmica
 
 **Ciência da Computação · URI, Campus de Santo Ângelo**  
-6º semestre · Desde fevereiro de 2024
+6º semestre · Início em fevereiro de 2024
 
-- Diagnóstico de falhas, identificação de erros e resolução de problemas técnicos.
-- Conhecimentos em Windows e sistemas de gestão empresarial (ERP).
-- Noções de redes de computadores, incluindo TCP/IP e DNS.
+Em formação para atuar no desenvolvimento de software, ampliando meus conhecimentos em programação e resolução de problemas.
 
+## ⚡ Meu time de tecnologias
 
-</div>
+<table width="100%">
+  <tr>
+    <td valign="top" width="45%">
+      <img src="./assets/Stack.svg" width="5%">
+      <strong>Tecnologias em evolução</strong>
+      <p>Linguagens e tecnologias que fazem parte da minha jornada de aprendizado.</p>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" /><br>
+      <img src="https://skillicons.dev/icons?i=python" /><br>
+    </td>
+    <td valign="top" width="55%">
+      <strong>Conhecimentos de apoio</strong>
+      <ul>
+        <li>Diagnóstico de falhas e resolução de problemas técnicos.</li>
+        <li>Windows e sistemas de gestão empresarial (ERP).</li>
+        <li>Noções de redes de computadores, TCP/IP e DNS.</li>
+        <li>Organização de dados, relatórios e planilhas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-</br>
-</br>
+## 📫 Vamos nos conectar
+
+Trocar experiências e aprender com outras pessoas também faz parte da jornada.
 
 <!-- badges -->
 <div align="center">
-  
-  </br>
 
- 
   <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-maronn-justen-455b61353/" target="_blank">
     <img width="100px" 
           src="https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" 
           alt="Linkedin"
           title="My Linkedin"/>
   </a>
   <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson.dev@gmail.com" target="_blank">
+  <a href="mailto:nicolasjustenprofissional@gmail.com" target="_blank">
     <img width="97px" 
           src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" 
           alt="E-mail"
@@ -92,27 +108,9 @@ Desde maio de 2023
   </a>
 
 </div>
-</br>
-<div align="center">
 
-</br>
-</br>
-</div>
-<table align="center">
-  <tr>
-    <!-- Skills Left -->
-    <td valign="top" width="45%">
-      <img src="./assets/Stack.svg" width="5%">
-      </br>
-      </br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" /><br>
-      <img src="https://skillicons.dev/icons?i=python" /><br>
-  </tr>
-</table>
+<br>
 
-
-
-
-
+<p align="center"><em>Um desafio por vez, sempre em evolução.</em></p>
 
 <img src="assets/c9433c679934ab3edc0a288d62981a34.gif" width="100%">
