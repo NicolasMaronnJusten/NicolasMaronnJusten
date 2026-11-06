@@ -71,7 +71,7 @@ Desde maio de 2023
 
 <!-- badges -->
 <div align="center">
-  <strong>You can Click here</strong>
+  
   </br>
 
  
