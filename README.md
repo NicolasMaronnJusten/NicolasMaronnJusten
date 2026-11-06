@@ -10,7 +10,7 @@
 
 <!-- Banner  -->
 <a href="https://github.com/NicolasMaronnJusten">
-  <img src="assets/mew_banner.svg" alt="Banner"  style="width:200%; height:auto"/>
+  <img src="assets/mew_banner.jpg" alt="Banner"  style="width:200%; height:auto"/>
 </a>
 >>>>>>> 2095f7513d72fa6e7e7856ee2fd63a2b8f20997c
 
