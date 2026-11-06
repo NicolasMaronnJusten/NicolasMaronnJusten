@@ -12,7 +12,6 @@
 <a href="https://github.com/NicolasMaronnJusten">
   <img src="assets/mew_banner.jpg" alt="Banner"  style="width:200%; height:auto"/>
 </a>
->>>>>>> 2095f7513d72fa6e7e7856ee2fd63a2b8f20997c
 
 <div align="center">
 
@@ -33,7 +32,7 @@
 </br>
 
 <!-- Who am i? -->
-<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width=390 align="left">
+<img src="assets/84dabee7783242f6fd6e33a052d7f338.gif" width=390 align="left">
 <div align="center">
 
 **Who Am I?**
