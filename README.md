@@ -115,5 +115,5 @@ Desde maio de 2023
 
 
 
-<img src="assets/84dabee7783242f6fd6e33a052d7f338.gif">
+<img src="assets/c9433c679934ab3edc0a288d62981a34.gif">
 
