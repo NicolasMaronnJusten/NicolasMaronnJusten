@@ -102,7 +102,7 @@ Desde maio de 2023
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="./assets/Stack.svg" width="15%">
+      <img src="./assets/Stack.svg" width="5%">
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp" /><br>
