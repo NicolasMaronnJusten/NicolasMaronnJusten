@@ -114,6 +114,6 @@ Desde maio de 2023
 
 
 
-<!--
-<img src="https://steamcdn-a.akamaihd.net/steam/apps/1382330/extras/2-citynightmare.gif?t=1608034435">
--->
+
+<img src="assets/84dabee7783242f6fd6e33a052d7f338.gif">
+
