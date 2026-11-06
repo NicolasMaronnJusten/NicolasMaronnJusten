@@ -7,9 +7,7 @@
     GitHub: https://github.com/Glauedson
 -->
 
-<<<<<<< HEAD
-Olá, Meu nome é Nicolas, e eu estou cursando a graduação **Ciência da Computação na URI Santo Ângelo** e trabalho na área administrativa da **Dasul Transporte de Cargas**. Minha rotina envolve sistemas de gestão, organização de dados e atendimento a clientes. Meu objetivo é poder me expecializar e poder se tornar um Desenvolvedor.
-=======
+
 <!-- Banner  -->
 <a href="https://github.com/NicolasMaronnJusten">
   <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:200%; height:auto"/>
